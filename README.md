@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andreadang8888
+- 👀 I’m interested in backend software engineering
+- 🌱 I’m currently learning OCaml :)
+- 📫 How to reach me: ald8888@cs.washington.edu (school), andreadang8888@gmail.com (personal)
